@@ -30,7 +30,7 @@ This project demonstrates:
 
 ## 🚀 How to Run This App
 
-1. **Install dependencies**:
+1. **Install dependencies** and **Run App**:
 
    ```bash
    npm install
